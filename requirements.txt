@@ -1,0 +1,10 @@
+Datasets:
+- realestate.csv for multiple linear regression
+- salary_data.csv
+
+Python Libraries:
+1. Numpy
+2. Pandas
+3. Matplotlib
+4. Scikit-learn
+You need to have the following libraries installed in your Python environment. You can install them using pip if they are not already installed.
