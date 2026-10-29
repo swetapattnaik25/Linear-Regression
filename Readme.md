@@ -5,8 +5,8 @@
 - Salary_Data.csv
 
 ## Streamlit Program 
-Deploy it using streamlit
-File name: UI.py
+- Deploy it using streamlit
+File name: UI.py(using model_joblib and model_pickel)
 
 ## Programming files
 - realestate.ipynb: It shows multiple linear regression
