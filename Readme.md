@@ -1,8 +1,8 @@
 # Linear Regression 
 
 ## Datasets
-realestate.csv
-Salary_Data.csv
+- realestate.csv
+- Salary_Data.csv
 
 ## Streamlit Program 
 Deploy it using streamlit
